@@ -14,6 +14,10 @@ Portfolio 2: https://github.com/ikbal-nayem/ikbal-nayem
 
 This portfolio is easy to navigate. It is very concise and has a relatively low amount of information. This portfolio also has very low reproducibility. Unfortunately, it as well has more of a beginning to end idea rather than explaining the process. It has a solid amount of information on what applications, programming languages, etc. were used to complete the projects included. The overall tone is slightly less than formal due to the emojis used, it is not something to hand to an employer.
 
+**Task B: Product Analysis**
+
+
+
 ## Decide
 
 
