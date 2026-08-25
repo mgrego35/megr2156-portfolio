@@ -1,2 +1,4 @@
 # About Me
-This is how to edit
+
+My name is Morgan Gregory. I am a Mechanical Engineering major at the University of North Carolina at Charlotte, currently in my 3rd year. I became interested in Mechanical Engineering during my sophomore year of high school when I joined VEX Robotics and grew to enjoy learning about the design and building processes. I have continued working in robotics through my 3D printing projects, using computer aided design in order to design structural components. So far I have used simple hobby servos but I am in the process of moving on to using larger motors rated for higher torque, combined with simple gearboxes to lift heavier things while keeping smoother movements rather than the jerky motions that result from using direct servo connections. As an engineer, while working on a project, I am attentive, detailed, and sequential in my thinking. I also enjoy learning about new things.
+
