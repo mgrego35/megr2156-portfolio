@@ -16,7 +16,18 @@ This portfolio is easy to navigate. It is very concise and has a relatively low 
 
 **Task B: Product Analysis**
 
+Patent chosen: US3005282A
+Inventor: Christiansen Godtfred Kirk
+
+The patent chosen is for toy building blocks. These blocks are modular and can be used to create an endless variety of ideas. They are intended for entertainment purposes. Press fits allow these blocks to combine and be easily taken apart in order to change the arrangement. As you can see in the images below, the simple geometrical shapes with tight tolerances keep the blocks together preventing them from failing normal or parallel to the plane, while ensuring they do not become stuck.
+
 <img width="378" height="504" alt="unnamed" src="https://github.com/user-attachments/assets/59b784cd-3964-41ee-bed5-e4713451a45a" />
+
+In the image above you can see the cylinders with a small height that keep the attached parts from sliding off parallel to the plane. 
+
+<img width="378" height="504" alt="unnamed" src="https://github.com/user-attachments/assets/4e15e967-20c7-4e83-bfa4-1fba6f906583" />
+
+In the image above you can see where the small pins go into. These holes are interesting because they allow for it to be added in any configuration. The original engineer likely thought that someone may want to add a piece anywhere from the middle, or the four corners around each individual hollow cylinder.
 
 ## Decide
 
