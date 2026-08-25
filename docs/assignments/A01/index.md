@@ -17,6 +17,7 @@ This portfolio is easy to navigate. It is very concise and has a relatively low 
 **Task B: Product Analysis**
 
 Patent chosen: US3005282A
+
 Inventor: Christiansen Godtfred Kirk
 
 The patent chosen is for toy building blocks. These blocks are modular and can be used to create an endless variety of ideas. They are intended for entertainment purposes. Press fits allow these blocks to combine and be easily taken apart in order to change the arrangement. As you can see in the images below, the simple geometrical shapes with tight tolerances keep the blocks together preventing them from failing normal or parallel to the plane, while ensuring they do not become stuck.
