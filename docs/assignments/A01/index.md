@@ -20,6 +20,7 @@ This portfolio is easy to navigate. It is very concise and has a relatively low 
 
 ## Decide
 
+A good homepage for a portfolio needs a title, table of contents, and it needs to be engaging, but still focused on the work. This portfolio template covers all of these easily. A table of contents that is easily readable and condenses the information into groups rather than overwhelming the reader, allows the first time visitor to find what they are looking for with ease. My choice to change was the color of the top banner. The
 
 ## Communicate
 
