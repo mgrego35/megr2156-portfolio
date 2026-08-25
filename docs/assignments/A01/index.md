@@ -38,3 +38,4 @@ A good homepage for a portfolio needs a title, table of contents, and it needs t
 
 ## Communicate
 
+The content for this section is located in the about me section of the portfolio.
