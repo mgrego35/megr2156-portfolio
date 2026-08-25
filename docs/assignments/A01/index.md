@@ -16,7 +16,7 @@ This portfolio is easy to navigate. It is very concise and has a relatively low 
 
 **Task B: Product Analysis**
 
-<img width="756" height="1008" alt="unnamed" src="https://github.com/user-attachments/assets/59b784cd-3964-41ee-bed5-e4713451a45a" />
+<img width="378" height="504" alt="unnamed" src="https://github.com/user-attachments/assets/59b784cd-3964-41ee-bed5-e4713451a45a" />
 
 ## Decide
 
