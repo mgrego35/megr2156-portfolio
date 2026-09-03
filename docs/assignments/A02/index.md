@@ -66,7 +66,9 @@ The largest force at a pin connection (9.34 kilonewtons) was used for the minimu
 
 <img width="962" height="405" alt="Screenshot 2026-09-03 040223" src="https://github.com/user-attachments/assets/04001772-c195-46c0-b412-5a37d5e389fc" />
 
+## Lesson Learned
 
+I learned how to use safety factors and yield strengths, alongside known forces in order to find minimum dimensions to create a safe end product.
 
 
 
