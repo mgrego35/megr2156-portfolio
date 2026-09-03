@@ -54,6 +54,7 @@ A chart of all of the final internal forces is shown below.
 
 <img width="443" height="249" alt="Screenshot 2026-09-03 034958" src="https://github.com/user-attachments/assets/46ada717-e676-4be6-a59d-79d403aa0657" />
 
+The largest force (35 kilonewtons) was used to calculate the minimum cross sectional area. The yield strength of 270 mPa was used (found on https://beamdimensions.com/materials/Steel/ASTM/ASTM_A500/) for the calculations alongside a safety factor of 3.5.
 
 
 
@@ -64,5 +65,3 @@ A chart of all of the final internal forces is shown below.
 
 
 
-
-https://beamdimensions.com/materials/Steel/ASTM/ASTM_A500/
