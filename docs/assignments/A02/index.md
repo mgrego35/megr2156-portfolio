@@ -70,7 +70,9 @@ The largest force at a pin connection (9.34 kilonewtons) was used for the minimu
 
 I learned how to use safety factors and yield strengths, alongside known forces in order to find minimum dimensions to create a safe end product.
 
+Sources:
 
+https://beamdimensions.com/materials/Steel/ASTM/ASTM_A500/
 
 
 
