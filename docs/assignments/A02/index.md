@@ -11,3 +11,4 @@ _Which geometry did you select, and why? This is your first open design choice i
 
 ## Communicate
 
+https://beamdimensions.com/materials/Steel/ASTM/ASTM_A500/
