@@ -26,19 +26,20 @@ The assignment given was to design a truss given this template shown below.
 
 <img width="437" height="266" alt="Screenshot 2026-09-03 032750" src="https://github.com/user-attachments/assets/1e7e93a3-3c69-493a-ba2f-213d8cbc92e1" />
 
+## Truss Design
+
 The first step was to design the truss. I kept it simple with a cross beam going through the middle of the trapezoid from point A to point C. The truss design is shown below.
 
 <img width="436" height="231" alt="Screenshot 2026-09-03 032647" src="https://github.com/user-attachments/assets/e513cffd-bb40-4ed0-98e0-0ddc6a741743" />
 
-The next step was to calculat
+## Calculations of Internal Forces
+
+The first thing I needed to do was find the internal forces. This will allow us to find the minimum cross sectional dimensions of the beams. I chose the force P to be 28 kilonewtons. The first point I drew a free body diagram for was point D. this point was the easiest to get started on.
+
+<img width="948" height="267" alt="Screenshot 2026-09-03 033915" src="https://github.com/user-attachments/assets/0a218129-88d0-4a50-9f01-d4c565eaa67f" />
 
 
 
 
-
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-
-## Communicate
 
 https://beamdimensions.com/materials/Steel/ASTM/ASTM_A500/
