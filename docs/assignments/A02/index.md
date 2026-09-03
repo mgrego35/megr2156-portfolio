@@ -20,7 +20,7 @@
 
 - Document key engineering lessons learned from the process.
 
-## Analyze
+## The Assignment
 
 The assignment given was to design a truss given this template shown below.
 
