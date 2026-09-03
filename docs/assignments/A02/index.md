@@ -54,9 +54,17 @@ A chart of all of the final internal forces is shown below.
 
 <img width="443" height="249" alt="Screenshot 2026-09-03 034958" src="https://github.com/user-attachments/assets/46ada717-e676-4be6-a59d-79d403aa0657" />
 
+## Cross Sectional Area of Beam Calculation
+
 The largest force (35 kilonewtons) was used to calculate the minimum cross sectional area. The yield strength of 270 mPa was used (found on https://beamdimensions.com/materials/Steel/ASTM/ASTM_A500/) for the calculations alongside a safety factor of 3.5.
 
+<img width="920" height="246" alt="Screenshot 2026-09-03 040205" src="https://github.com/user-attachments/assets/aeaf21b6-95de-43f9-9f64-2b4faefcb7fc" />
 
+## Cross Sectional Area of Pins Calculation
+
+The largest force at a pin connection (9.34 kilonewtons) was used for the minimum cross sectional area of the pins with a safety factor of 4 and a yield strength of 170 ksi.
+
+<img width="962" height="405" alt="Screenshot 2026-09-03 040223" src="https://github.com/user-attachments/assets/04001772-c195-46c0-b412-5a37d5e389fc" />
 
 
 
