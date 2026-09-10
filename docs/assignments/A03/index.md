@@ -42,8 +42,13 @@ The von Mises Stress map is shown below.
 
 ## Design Reflection
 
+<img width="1162" height="432" alt="Screenshot 2026-09-10 033231" src="https://github.com/user-attachments/assets/f1372691-c86d-4217-a256-2efce5972af4" />
 
+This makes sense because the calculation was relatively simple, the load is a simple uniform concentration, and they used the same variables. I would trust the FEA more than the hand calculations because the computer leaves out any human error.
 
+## Lessons Learned
+
+I spent about 5 hours on this project overall. The biggest lesson I learned here is how to do an FEA in SolidWorks. This will allow me to find stress concentrations in the future on certain parts.
 
 
 
