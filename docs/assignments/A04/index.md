@@ -53,11 +53,13 @@ The most important lesson I learned throughout this project was that while the y
 
 ## Resources
 
+CAD FILE: [A4_2156Lecture.zip](https://github.com/user-attachments/files/32301965/A4_2156Lecture.zip)
+
 - https://uncc.instructure.com/courses/272052/assignments/2902671?module_item_id=7950956
   
 - https://www.matweb.com/search/DataSheet.aspx?MatGUID=ab96a4c0655c4018a8785ac4031b9278&ckck=1
 
-CAD FILE: [A4_2156Lecture.zip](https://github.com/user-attachments/files/32301965/A4_2156Lecture.zip)
+
 
 
 
