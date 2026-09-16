@@ -4,7 +4,7 @@
 
 The goal for this assignment was to design a motor mount like the one shown below using our calculations to find minimum dimensions based on stress and deflection. The motor dimensions are shown below as well.
 
-<img width="501" height="345" alt="Screenshot 2026-09-16 111915" src="https://github.com/user-attachments/assets/1cc39df6-6669-48ff-9670-a356044badd6" />
+<img width="250" height="172" alt="Screenshot 2026-09-16 111915" src="https://github.com/user-attachments/assets/1cc39df6-6669-48ff-9670-a356044badd6" />
 
 <img width="740" height="246" alt="Screenshot 2026-09-16 140228" src="https://github.com/user-attachments/assets/bccdef8f-f934-4e14-8989-32a0d8718214" />
 
