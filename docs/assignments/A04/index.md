@@ -41,11 +41,11 @@ The first thing I did was use the right plane to create a sketch, using the glob
 
 Then, I created the indention and hole for the shaft. This part I did not do calculations for it was merely for show.
 
-<img width="1120" height="811" alt="Screenshot 2026-09-16 111153" src="https://github.com/user-attachments/assets/42780419-a30b-44cd-a9b0-0551252dfba7" />
+<img width="560" height="405" alt="Screenshot 2026-09-16 111153" src="https://github.com/user-attachments/assets/42780419-a30b-44cd-a9b0-0551252dfba7" />
 
-<img width="1045" height="818" alt="Screenshot 2026-09-16 111421" src="https://github.com/user-attachments/assets/07c1337e-29b5-4017-bd6b-a1a554a8cfa9" />
+<img width="522" height="409" alt="Screenshot 2026-09-16 111421" src="https://github.com/user-attachments/assets/07c1337e-29b5-4017-bd6b-a1a554a8cfa9" />
 
-<img width="836" height="723" alt="Screenshot 2026-09-16 111439" src="https://github.com/user-attachments/assets/37945f67-b9c0-4312-a1d2-5895ce026f12" />
+<img width="418" height="361" alt="Screenshot 2026-09-16 111439" src="https://github.com/user-attachments/assets/37945f67-b9c0-4312-a1d2-5895ce026f12" />
 
 ## Lessons Learned
 
