@@ -1,5 +1,7 @@
 # A4 – Motor Mount
 
+Solidworks Part File: (https://github.com/user-attachments/files/32301965/A4_2156Lecture.zip)
+
 ## Instructions
 
 The goal for this assignment was to design a motor mount like the one shown below using our calculations to find minimum dimensions based on stress and deflection. The motor dimensions are shown below as well.
@@ -52,8 +54,6 @@ Then, I created the indention and hole for the shaft. This part I did not do cal
 The most important lesson I learned throughout this project was that while the yield strength and safety factor can be used to find minimum dimensions, there are more considerations than just those two. The max deflection was the other consideration in this project, and for feature 1, the max deflection was what caused the width to be as big as it was. The second feature, however, had a minimum height caused by the yield strength. Many things must be considered for minimum dimensions.
 
 ## Resources
-
-CAD FILE: [A4_2156Lecture.zip](https://github.com/user-attachments/files/32301965/A4_2156Lecture.zip)
 
 - https://uncc.instructure.com/courses/272052/assignments/2902671?module_item_id=7950956
   
