@@ -37,7 +37,7 @@ The first thing I did was use the right plane to create a sketch, using the glob
 
 <img width="663" height="466" alt="Screenshot 2026-09-16 111648" src="https://github.com/user-attachments/assets/683b91ea-3146-44cb-a515-59d16f181c61" />
 
-<img width="891" height="689" alt="Screenshot 2026-09-16 111040" src="https://github.com/user-attachments/assets/c995f0dc-9231-47b4-8a19-281103684488" />
+<img width="668" height="516" alt="Screenshot 2026-09-16 111040" src="https://github.com/user-attachments/assets/c995f0dc-9231-47b4-8a19-281103684488" />
 
 Then, I created the indention and hole for the shaft. This part I did not do calculations for it was merely for show.
 
