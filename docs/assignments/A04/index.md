@@ -1,6 +1,6 @@
 # A4 – Motor Mount
 
-Solidworks Part File: (https://github.com/user-attachments/files/32301965/A4_2156Lecture.zip)
+Solidworks Part File: [A4_2156Part](https://github.com/user-attachments/files/32301965/A4_2156Lecture.zip)
 
 ## Instructions
 
