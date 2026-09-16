@@ -2,9 +2,12 @@
 
 ## Instructions
 
-The goal for this assignment was to design a motor mount like the one shown below using our calculations to find minimum dimensions based on stress and deflection.
+The goal for this assignment was to design a motor mount like the one shown below using our calculations to find minimum dimensions based on stress and deflection. The motor dimensions are shown below as well.
 
 <img width="167" height="115" alt="Screenshot 2026-09-16 111915" src="https://github.com/user-attachments/assets/1cc39df6-6669-48ff-9670-a356044badd6" />
+
+<img width="740" height="246" alt="Screenshot 2026-09-16 140228" src="https://github.com/user-attachments/assets/bccdef8f-f934-4e14-8989-32a0d8718214" />
+
 
 ## Feature 1 Design
 
@@ -36,10 +39,22 @@ The first thing I did was use the right plane to create a sketch, using the glob
 
 <img width="891" height="689" alt="Screenshot 2026-09-16 111040" src="https://github.com/user-attachments/assets/c995f0dc-9231-47b4-8a19-281103684488" />
 
-Then, I created th
+Then, I created the indention and hole for the shaft. This part I did not do calculations for it was merely for show.
 
+<img width="1120" height="811" alt="Screenshot 2026-09-16 111153" src="https://github.com/user-attachments/assets/42780419-a30b-44cd-a9b0-0551252dfba7" />
 
+<img width="1045" height="818" alt="Screenshot 2026-09-16 111421" src="https://github.com/user-attachments/assets/07c1337e-29b5-4017-bd6b-a1a554a8cfa9" />
 
+<img width="836" height="723" alt="Screenshot 2026-09-16 111439" src="https://github.com/user-attachments/assets/37945f67-b9c0-4312-a1d2-5895ce026f12" />
+
+## Lessons Learned
+
+The most important lesson I learned throughout this project was that while the yield strength and safety factor can be used to find minimum dimensions, there are more considerations than just those two. The max deflection was the other consideration in this project, and for feature 1, the max deflection was what caused the width to be as big as it was. The second feature, however, had a minimum height caused by the yield strength. Many things must be considered for minimum dimensions.
+
+## Resources
+
+- https://uncc.instructure.com/courses/272052/assignments/2902671?module_item_id=7950956
+- https://www.matweb.com/search/DataSheet.aspx?MatGUID=ab96a4c0655c4018a8785ac4031b9278&ckck=1
 
 
 
