@@ -45,7 +45,7 @@ Then, I created the indention and hole for the shaft. This part I did not do cal
 
 <img width="522" height="409" alt="Screenshot 2026-09-16 111421" src="https://github.com/user-attachments/assets/07c1337e-29b5-4017-bd6b-a1a554a8cfa9" />
 
-<img width="418" height="361" alt="Screenshot 2026-09-16 111439" src="https://github.com/user-attachments/assets/37945f67-b9c0-4312-a1d2-5895ce026f12" />
+<img width="522" height="451" alt="Screenshot 2026-09-16 111439" src="https://github.com/user-attachments/assets/37945f67-b9c0-4312-a1d2-5895ce026f12" />
 
 ## Lessons Learned
 
