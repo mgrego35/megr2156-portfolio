@@ -32,10 +32,29 @@ E is shown below
 
 <img width="689" height="411" alt="Screenshot 2026-09-23 214845" src="https://github.com/user-attachments/assets/d3157baa-67ef-4de0-acfd-9f7a42800c3e" />
 
+## Stiffness Analysis
 
+For the stiffness analysis, a maximum deflection of .005 inches was given. This deflection was used along with Hooke's law and the already calculated formulas for deflection in different, simplified scenarios.
 
+A is shown below
 
+<img width="929" height="625" alt="Screenshot 2026-09-23 221102" src="https://github.com/user-attachments/assets/ba5cdae1-2d7a-4353-8fc6-94a24bfe899c" />
 
+B is shown below
+
+<img width="684" height="207" alt="Screenshot 2026-09-23 221135" src="https://github.com/user-attachments/assets/92b6d251-c977-43cd-8db2-19a35f279439" />
+
+C is shown below
+
+<img width="696" height="295" alt="Screenshot 2026-09-23 221304" src="https://github.com/user-attachments/assets/be6d1f69-ff71-46d4-8907-6a2e10a55cfc" />
+
+D is shown below
+
+<img width="697" height="230" alt="Screenshot 2026-09-23 221345" src="https://github.com/user-attachments/assets/3a75de46-1eda-432a-8253-04d14189b168" />
+
+E is shown below
+
+<img width="694" height="300" alt="Screenshot 2026-09-23 221719" src="https://github.com/user-attachments/assets/68bf1724-9a11-419c-b34b-d6c070d8a4fe" />
 
 
 
