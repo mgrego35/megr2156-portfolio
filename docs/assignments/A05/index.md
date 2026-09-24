@@ -1,13 +1,59 @@
-# A5 – [Topic]
+# A5 – Bracket Design
 
-## Objective
+## The Assignment
+
+The assignment this week was to design a bracket using both strength and stiffness to choose lengths. The material chosen was Aluminum 6061 T6 and the values for the modulus of elasticity and yield strength were found to be 40000 ksi and 40 ksi respectively.
+
+## Strength Analysis
+
+For the strength analysis section, a free body diagram was drawn for each with the knowns and unknowns written out. The start was chosen to be the cylinder at the bottom because that is where the load originates and the reaction forces will be used to determine other dimensions. The math shown below was finding the radius using the section moduli and then using that and the other dimensions, material properties, and a safety factor of 4 to find the dimensions.
+
+<img width="461" height="257" alt="Screenshot 2026-09-23 213656" src="https://github.com/user-attachments/assets/ebced7c7-c9ad-43eb-b269-db1ae5c8d782" />
+
+The radius was upped to about .510 inches in order to provide a buffer in case something is slightly off. 
+
+A is shown below
+
+<img width="691" height="411" alt="Screenshot 2026-09-23 214222" src="https://github.com/user-attachments/assets/3da7ebc1-05ea-4eb8-82be-d411bac5e2f2" />
+
+B is shown below
+
+<img width="691" height="444" alt="Screenshot 2026-09-23 214647" src="https://github.com/user-attachments/assets/4bd56fc5-90d9-4e35-a47e-02354ce6b4d4" />
+
+C is shown below
+
+<img width="697" height="483" alt="Screenshot 2026-09-23 214744" src="https://github.com/user-attachments/assets/84e2ac18-0a11-45d7-a679-1daa8a1c1b9b" />
+
+D is shown below
+
+<img width="700" height="347" alt="Screenshot 2026-09-23 214831" src="https://github.com/user-attachments/assets/499637a7-5f5a-44ec-8b26-3d7040c00b28" />
+
+E is shown below
+
+<img width="689" height="411" alt="Screenshot 2026-09-23 214845" src="https://github.com/user-attachments/assets/d3157baa-67ef-4de0-acfd-9f7a42800c3e" />
 
 
-## Analyze
 
 
-## Decide
 
 
-## Communicate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## References
+
+https://www.glemco.com/capabilities/material-expertise/aluminum-6061-t6/
+
+
 
