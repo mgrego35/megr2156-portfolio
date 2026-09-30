@@ -20,7 +20,7 @@ Next thing to do was create the extrusion, create the same sketch but without pa
 
 <img width="605" height="422" alt="Screenshot 2026-09-29 181848" src="https://github.com/user-attachments/assets/605851cc-91a1-4ed7-b108-bfcf7bc87100" />
 
-<img width="342" height="187" alt="Screenshot 2026-09-29 181852" src="https://github.com/user-attachments/assets/86b899b8-f7c9-4db0-b23b-df074316e61e" />
+<img width="342" height="187" alt="Screenshot 2026-09-29 181852" src="https://github.com/user-attachments/assets/86b899b8-f7c9-4db0-b23b-df074316e61e" />;
 
 <img width="600" height="650" alt="Screenshot 2026-09-29 181902" src="https://github.com/user-attachments/assets/3496935f-2155-4a49-b00e-0ecab9ae1289" />
 
