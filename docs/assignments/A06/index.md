@@ -45,3 +45,7 @@ The drawing is shown and linked below.
 All of my dimensions were driven by strength. All of the calculations were done by hand on paper in A5. From there, the final variables for the dimensions were placed into SolidWorks global variables area, and given values tied to what they were. These values were used because equations give bare minimums, but rounding slightly higher gives better values for only slightly less material.
 
 One tighter tolerance was the thickness of parts c and d. They were given to three decimal places to ensure a right measurement. A looser tolerance was the length. The length was given as 5 inches even and that was because it was not necessary for it to be incredibly accurate as it is not hurting the fit at all, and it does not affect it.
+
+## References
+
+https://uncc.instructure.com/courses/272052/assignments/2902673?module_item_id=7950968
