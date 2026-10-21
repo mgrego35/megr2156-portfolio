@@ -6,4 +6,10 @@ The assignment this week was to perform a finite element analysis on the bracket
 
 ## First FEA
 
+The first analysis did not go as expected at all. The parameters we needed to keep consistent were 
+
+-------------------------------------------------------------------
+|                    |   Design 1   |   Design 2   |   Design 3   |
+-------------------------------------------------------------------
+
 
