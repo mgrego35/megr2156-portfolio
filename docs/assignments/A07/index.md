@@ -72,6 +72,8 @@ The third FEA went perfectly. The maximum stress was 7.857 ksi, which occurred b
 
 ## Reflection and Analysis
 
+The final CAD model: [Bracket.zip](https://github.com/user-attachments/files/33786731/Bracket.zip)
+
 The tabulated results for each test are shown below.
 
 <img width="877" height="120" alt="Screenshot 2026-10-21 153628" src="https://github.com/user-attachments/assets/68dcde87-f737-4e55-99b9-f81aa6b2f517" />
