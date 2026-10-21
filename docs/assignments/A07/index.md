@@ -6,10 +6,7 @@ The assignment this week was to perform a finite element analysis on the bracket
 
 ## First FEA
 
-The first analysis did not go as expected at all. The parameters we needed to keep consistent were 
+The first analysis did not go as expected at all. The parameters we needed to keep consistent were .005 inch maximum deflection, a safety factor of 4 which means a maximum stress of 10 ksi given the yield strength of 40 ksi.
 
--------------------------------------------------------------------
-|                    |   Design 1   |   Design 2   |   Design 3   |
--------------------------------------------------------------------
 
 
