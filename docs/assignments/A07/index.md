@@ -6,7 +6,23 @@ The assignment this week was to perform a finite element analysis on the bracket
 
 ## Keeping Consistency
 
-For the stress analysis each time, the same process/study was used. 
+For the stress analysis each time, the same process/study was used. First I began a new study by pressing new study in the top left. I then ensured to choose a static study as shown below.
+
+<img width="228" height="199" alt="Screenshot 2026-10-21 152918" src="https://github.com/user-attachments/assets/09657f4a-3ccd-462c-b88f-dc1753c98368" />
+
+The next thing I did was create a fixed fixture holding the top of the bracket in place as that would be the use for it.
+
+<img width="957" height="404" alt="Screenshot 2026-10-21 153049" src="https://github.com/user-attachments/assets/0adfb69f-4f61-4668-ab53-8980eadbc3a5" />
+
+Next I created a mesh by right clicking on mesh and moving the slider to fine.
+
+<img width="229" height="249" alt="Screenshot 2026-10-21 153208" src="https://github.com/user-attachments/assets/a227c0d5-80b0-4a8c-9082-e1c9143381a0" />
+
+Finally I added a load of 500 lbf to A as shown below using the centerline as the reference, and clicked run this study to run it.
+
+<img width="1593" height="850" alt="Screenshot 2026-10-21 153431" src="https://github.com/user-attachments/assets/b538a2db-2ca8-466a-8ed7-87ceec4a2e48" />
+
+This was done for EACH test and the parameters were kept the same, only the part itself was changed.
 
 ## First FEA
 
@@ -54,14 +70,14 @@ The third FEA went perfectly. The maximum stress was 7.857 ksi, which occurred b
 
 <img width="1428" height="654" alt="Screenshot 2026-10-21 150940" src="https://github.com/user-attachments/assets/b56310dc-e369-4dbc-9db4-264c7ee77fab" />
 
-## Analysis
+## Reflection and Analysis
 
+The tabulated results for each test are shown below.
 
+<img width="877" height="120" alt="Screenshot 2026-10-21 153628" src="https://github.com/user-attachments/assets/68dcde87-f737-4e55-99b9-f81aa6b2f517" />
 
+The main lesson I learned from this assignment is that there are many different points of failure and tests can prevent terrible failures from happening. The tests I performed prevented me from wasting material creating the previous attempts and testing them in the real world. One interesting thing is the mass of each of the designs. Design one had .38 kg, design 2 had .56 kg, and design 3 had .86 kg. This is important to note because instead of the overall dimensions being bigger, the density of space being used was much higher in design 3 than in design 1. There was more mass and less volume in the end. This contributes to why the beginning parts failed but the last one did not, it did not waste as much volume or have any big moments that caused higher bending stress and deflection.
 
+## References
 
-
-
-
-
-
+- https://uncc.instructure.com/courses/272052/assignments/2902674
