@@ -18,5 +18,5 @@ Design a pulley system to transfer power between two parallel axes separated by 
 
 ## Choosing a Belt
 
-
+The first thing to do is to choose a belt from the link in the resources section by doing all calculations on 
 
