@@ -16,3 +16,7 @@ Design a pulley system to transfer power between two parallel axes separated by 
 
 - Assume the belt is made from polyurethane rubber, with a yield strength of 3.25 MPa (471 psi) at 20% strain
 
+## Choosing a Belt
+
+
+
