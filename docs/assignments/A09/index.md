@@ -40,7 +40,11 @@ The minimum diameter and length that fit best are .25 inches and 19.5 inches res
 
 <img width="649" height="395" alt="Screenshot 2026-11-03 213221" src="https://github.com/user-attachments/assets/9ae91685-f0be-4c30-92c4-a956f036b3ed" />
 
+## Choosing a Shaft
 
+Now that we have chosen the belt it is time to find the minimum dimensions for the shaft. The given material is 1060 hardened steel.
+
+I began by calculating the torque created by the forces.
 
 
 
