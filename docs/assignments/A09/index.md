@@ -55,5 +55,7 @@ I began by calculating the torque created by the forces.
 
 
 
+## References
 
+https://www.fabdigit.com/materials/steel-1060/q-t/
 
