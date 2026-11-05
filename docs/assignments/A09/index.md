@@ -88,8 +88,27 @@ Final chosen material: Nylon
 
 I chose the nylon because it is cheap compared to other materials on the list and it performs well under these conditions looking at the PV rating.
 
-## Designing the 
+## Designing the Frame
 
+In order to design the frame I began by creating a simple sketch with the variables below.
+
+<img width="555" height="156" alt="Screenshot 2026-11-05 014906" src="https://github.com/user-attachments/assets/3c323976-a70f-4504-ac71-94872fa73802" />
+
+The material I chose was ABS because of its low cost for this application compared to aluminum or steel. The shear strength of 9700 psi was found from the table below from protoxyz.
+
+<img width="1156" height="551" alt="Screenshot 2026-11-05 012324" src="https://github.com/user-attachments/assets/99f34447-0bce-4df7-9e55-54da37b501f2" />
+
+I then used the safety factor and the shear stress equation to find the minimum thickness which is shown below.
+
+<img width="806" height="152" alt="Screenshot 2026-11-05 015155" src="https://github.com/user-attachments/assets/3897aa96-00ee-44a2-b2da-4022c06277ae" />
+
+The final drawing is shown below.
+
+<img width="619" height="175" alt="Screenshot 2026-11-05 015238" src="https://github.com/user-attachments/assets/7a09b316-b705-49d3-80c1-79557fc32d86" />
+
+## Lessons Learned
+
+The main thing I learned was that you have to calculate the difference between the pulley's loose and tight tension sides and it leads to different values. This can have a huge effect on minimum dimensions. This assignment took around 4 hours to complete.
 
 ## References
 
