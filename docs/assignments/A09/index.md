@@ -59,3 +59,4 @@ I began by calculating the torque created by the forces.
 
 https://www.fabdigit.com/materials/steel-1060/q-t/
 
+https://protoxyz.com/materials/plastic/ABS
