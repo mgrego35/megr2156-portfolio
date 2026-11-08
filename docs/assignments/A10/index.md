@@ -6,7 +6,7 @@ Design and build a mechanically driven tensile tester capable of applying up to 
 
 ## Designing the Crosshead: Morgan Gregory
 
-
+To begin, I needed to find both the length, from research, and the base, from the nut flange.jjjjjjjjjjj
 
 
 
