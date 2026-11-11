@@ -6,7 +6,13 @@ Design and build a mechanically driven tensile tester capable of applying up to 
 
 ## Designing the Crosshead: Morgan Gregory
 
-To begin, I needed to find both the length, from research, and the base, from the nut flange.jjjjjjjjjjj
+To begin, I needed to find both the length, from research, and the base, from the nut flange. The length was chosen to be 300 mm and the base was chosen from the flange nut diameter to be 31.75 mm. The rest of the knowns and unknowns are shown below.
+
+[KNOWNS AND UNKNOWNS HERE]
+
+Now it is important to calculate minimum values such as thickness of the beam. I began by 
+
+<img width="1429" height="475" alt="image" src="https://github.com/user-attachments/assets/fd2dea62-daff-4c28-8e4f-21b92e1c7c57" />
 
 
 
@@ -15,7 +21,8 @@ To begin, I needed to find both the length, from research, and the base, from th
 
 
 
+## References
 
+https://mechanicalc.com/reference/beam-deflection-tables
 
-
-
+https://repositum.tuwien.at/bitstream/20.500.12708/200949/1/Demmel%20Stella%20-%202024%20-%20Design%20manufacturing%20and%20testing%20of%20an%20open-source...pdf
