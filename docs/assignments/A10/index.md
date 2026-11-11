@@ -32,9 +32,13 @@ Next is the drawing for the crosshead. Sketches are shown below. Holes are measu
 
 ## Parametric Modeling - Morgan Gregory
 
-I began by designing the crosshead in SolidWorks as shown below.
+I began by parametrically designing the crosshead in SolidWorks as shown below.
 
+<img width="921" height="80" alt="Screenshot 2026-11-11 024233" src="https://github.com/user-attachments/assets/29580b4e-d0f6-4a64-8e92-e44987ca6df0" />
 
+<img width="1286" height="485" alt="Screenshot 2026-11-11 023803" src="https://github.com/user-attachments/assets/15550050-a56b-4826-ae16-8d31d3f2f1a3" />
+
+<img width="1916" height="840" alt="Screenshot 2026-11-11 023825" src="https://github.com/user-attachments/assets/d7b39dca-a8ec-4d0b-ad0f-25a821cd01d5" />
 
 
 
