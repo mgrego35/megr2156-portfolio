@@ -26,7 +26,13 @@ Now it was important to find the h with the max deflection of .1 mm.
 
 The deflection gave the final value of h as 21.3 mm.
 
-Next is the CAD design for the crosshead. I began by creating a sketch of a rectangle and extruding it by the height as shown below. 
+Next is the drawing for the crosshead. Sketches are shown below. Holes are measured as 1 inch.
+
+<img width="815" height="560" alt="Screenshot 2026-11-11 022726" src="https://github.com/user-attachments/assets/bfb13a9d-6845-4214-ab2d-bd48df564444" />
+
+## Parametric Modeling - Morgan Gregory
+
+I began by designing the crosshead in SolidWorks as shown below.
 
 
 
