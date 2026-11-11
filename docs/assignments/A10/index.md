@@ -40,6 +40,15 @@ I began by parametrically designing the crosshead in SolidWorks as shown below.
 
 <img width="1916" height="840" alt="Screenshot 2026-11-11 023825" src="https://github.com/user-attachments/assets/d7b39dca-a8ec-4d0b-ad0f-25a821cd01d5" />
 
+<img width="1004" height="401" alt="Screenshot 2026-11-11 024035" src="https://github.com/user-attachments/assets/4a1bf308-5c17-4c5a-a4f2-e7d3bcb047f7" />
+
+<img width="877" height="379" alt="Screenshot 2026-11-11 024724" src="https://github.com/user-attachments/assets/126b65e4-0d19-46a3-b7df-75318240341a" />
+
+
+
+
+
+
 
 
 
