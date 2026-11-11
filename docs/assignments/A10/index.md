@@ -8,11 +8,27 @@ Design and build a mechanically driven tensile tester capable of applying up to 
 
 To begin, I needed to find both the length, from research, and the base, from the nut flange. The length was chosen to be 300 mm and the base was chosen from the flange nut diameter to be 31.75 mm. The rest of the knowns and unknowns are shown below.
 
-[KNOWNS AND UNKNOWNS HERE]
+<img width="455" height="330" alt="Screenshot 2026-11-11 020504" src="https://github.com/user-attachments/assets/8dc532b3-8446-4551-a224-889a41be7492" />
 
-Now it is important to calculate minimum values such as thickness of the beam. I began by 
+I then found the maximum shear and yield stresses using the safety factor of 4.
 
-<img width="1429" height="475" alt="image" src="https://github.com/user-attachments/assets/fd2dea62-daff-4c28-8e4f-21b92e1c7c57" />
+<img width="394" height="189" alt="Screenshot 2026-11-11 020707" src="https://github.com/user-attachments/assets/1f9778c0-b5ab-462f-9892-c042be2955da" />
+
+Now it is important to calculate minimum values such as thickness of the beam. I began by doing the stress analysis. I analyzed shear stress first and bending stress second. The math is shown below, with minimum h values. 6061 aluminum was the chosen material for its lighter weight and cost effectiveness.
+
+<img width="850" height="290" alt="Screenshot 2026-11-11 021022" src="https://github.com/user-attachments/assets/372fbd67-1a38-4e70-aba5-360c699e18f2" />
+
+The minimum value of h for came from the bending stress so far at 11.33 mm.
+
+Now it was important to find the h with the max deflection of .1 mm.
+
+<img width="818" height="217" alt="Screenshot 2026-11-11 021127" src="https://github.com/user-attachments/assets/bb982256-2dc1-4926-972d-f099b99f52c8" />
+
+The deflection gave the final value of h as 21.3 mm.
+
+Next is the CAD design for the crosshead. I began by creating a sketch of a rectangle and extruding it by the height as shown below. 
+
+
 
 
 
