@@ -4,6 +4,110 @@
 
 Design and build a mechanically driven tensile tester capable of applying up to 2 kN axial tensile load with a controllable crosshead speed from 1 to 50 mm/min. Each team is responsible for the mechanical components outlined below. The system will provide consistent, well-aligned loading for polymers and light metals, suitable for instructional use and basic materials evaluation. Safety factor of 4.
 
+## Leadscrew Diameter: Ethan Cornett
+
+The first step in selecting the leadscrews was determining the minimum diameter required to safely support the tensile tester's maximum load of 2 kN. Since the design uses two identical leadscrews, the total load is distributed equally between them, resulting in an axial load of 1 kN per screw.
+
+304 stainless steel was initially selected as the material for the leadscrews, with a yield strength of 205 MPa. A factor of safety of 4 was applied to determine the minimum required diameter.
+
+The diameter was calculated using the axial stress relationship: O=F/A
+
+The allowable stress was determined using the material yield strength and required factor of safety. The resulting theoretical minimum diameter was approximately 4.99 mm. I decided to use a diameter of 12.7mm or 1/2 inch.
+
+This calculation established the minimum structural requirement before selecting a commercially available leadscrew.
+
+The first step in selecting the leadscrews was determining the minimum diameter required to safely support the tensile tester's maximum load of 2 kN. Since the design uses two identical leadscrews, the total load is distributed equally between them, resulting in an axial load of 1 kN per screw.
+
+304 stainless steel was initially selected as the material for the leadscrews, with a yield strength of 205 MPa. A factor of safety of 4 was applied to determine the minimum required diameter.
+
+The diameter was calculated using the axial stress relationship: O=F/A
+
+The allowable stress was determined using the material yield strength and required factor of safety. The resulting theoretical minimum diameter was approximately 4.99 mm. I decided to use a diameter of 12.7mm or 1/2 inch.
+
+This calculation established the minimum structural requirement before selecting a commercially available leadscrew.
+
+<img width="400" height="532" alt="Screenshot 2026-11-11 213542" src="https://github.com/user-attachments/assets/7ff521e8-fd3b-4e27-8fdd-5e27587be00f" />
+
+### Rotational Speed Range
+
+After establishing the minimum diameter, the next step was determining the rotational speed required to achieve the specified crosshead speed.
+
+The tensile tester must operate between 1 mm/min and 50 mm/min. The relationship between linear crosshead speed and leadscrew rotational speed is:
+
+V=nL
+
+Where:
+
+(V) = Linear crosshead speed (mm/min)
+
+(n) = Leadscrew rotational speed (RPM)
+
+(L) = Leadscrew lead (mm/rev)
+
+The selected 1/2-10 Acme leadscrew has a lead of 0.100 inches per revolution, equivalent to 2.54 mm/rev, assuming a single-start thread.
+
+Using this lead, the required rotational speed range is:
+
+Minimum speed: 0.394 RPM
+
+Maximum speed: 19.69 RPM
+
+Both leadscrews will rotate at the same speed to maintain synchronized crosshead movement.
+
+<img width="402" height="533" alt="Screenshot 2026-11-11 213514" src="https://github.com/user-attachments/assets/c8ce3f7e-f52e-454c-90d7-7d250c596331" />
+
+### Maximum Leadscrew Torque
+
+The next calculation determined the torque required to drive both leadscrews while maintaining the required 2 kN tensile load.
+
+Because the system uses two leadscrews, each screw carries approximately 1 kN of the applied load. The torque calculation accounts for the screw lead and the torque coefficient used in the preliminary design.
+
+The calculated torque requirement was approximately:
+
+T_i = FL/2pi(n)
+
+T_T = 2FL/2pi(n)
+
+T_S =FR_T(2)(N)
+
+Torque per leadscrew: 11.47 in·lbf
+
+Combined torque: 22.94 in·lbf (2.59 N·m)
+
+A factor of safety of 4 was then applied to determine the design torque requirement.
+
+The resulting combined design torque was approximately 10.36 N·m.
+
+This value provides the preliminary torque requirement for selecting the mechanical drive system. Actual operating torque will also depend on the selected nut, lubrication, alignment, and friction.
+
+### Commercial Leadscrew Selection
+
+After determining the minimum diameter, rotational speed range, and torque requirements, the team moved toward selecting a commercially available leadscrew.
+
+The selected design uses two identical Roton 1/2-10 Acme leadscrews. The 1/2-inch nominal diameter exceeds the calculated minimum diameter of approximately 4.99 mm, while the 0.100-inch lead provides the required crosshead speed range at approximately 0.394–19.69 RPM.
+
+Using identical leadscrews also allows both sides of the crosshead to move together, helping maintain alignment during tensile testing.
+
+### Commercial Leadscrew Selection
+
+After determining the minimum diameter, rotational speed range, and torque requirements, the team moved toward selecting a commercially available leadscrew.
+
+The selected design uses two identical Roton 1/2-10 Acme leadscrews. The 1/2-inch nominal diameter exceeds the calculated minimum diameter of approximately 4.99 mm, while the 0.100-inch lead provides the required crosshead speed range at approximately 0.394–19.69 RPM.
+
+Using identical leadscrews also allows both sides of the crosshead to move together, helping maintain alignment during tensile testing.
+
+Supporting images:
+
+<img width="1900" height="168" alt="image" src="https://github.com/user-attachments/assets/aa0031a3-4414-48de-8108-a3649117f5ba" />
+
+Design Outcome:
+
+The calculations established the initial requirements for the tensile tester's leadscrew system. The team determined the minimum required screw diameter, the rotational speed range needed to achieve the specified crosshead speeds, and the preliminary torque requirement for the drive system.
+
+These calculations provided the foundation for selecting the commercial leadscrews and developing the remaining mechanical design. Supporting images:
+
+<img width="882" height="1166" alt="image" src="https://github.com/user-attachments/assets/47c75de2-f43a-4732-ab93-79f9e9fdb0b1" />
+
 ## Designing the Crosshead: Morgan Gregory
 
 To begin, I needed to find both the length, from research, and the base, from the nut flange. The length was chosen to be 300 mm and the base was chosen from the flange nut diameter to be 31.75 mm. The rest of the knowns and unknowns are shown below.
