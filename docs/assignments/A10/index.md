@@ -102,7 +102,17 @@ These calculations provided the foundation for selecting the commercial leadscre
 
 ## Select A Nut/Flange: Lexie Cox
 
-[POST LEXIE COX WORK HERE]
+For the Nut and Flange I started out by listing all of the knowns and unknowns needed for the calculations.
+
+<img width="812" height="412" alt="Screenshot 2026-11-12 004343" src="https://github.com/user-attachments/assets/cd2c1f35-4fbc-453c-a854-c973d8bb5a8e" />
+
+I then found the bending stress that would be on the chosen nut.
+
+<img width="796" height="260" alt="Screenshot 2026-11-12 004348" src="https://github.com/user-attachments/assets/37b2b4ac-7646-44f6-9980-41a7ff62d9d7" />
+
+It is important to make sure that this is the correct chosen nut and that it would not fail in the machine. To do this I found the maximum bending stress. The calculated bending stress was less than the maximum bending stress meaning that this is the correct nut.
+
+<img width="727" height="301" alt="Screenshot 2026-11-12 004352" src="https://github.com/user-attachments/assets/b6f54171-0bca-4bca-ba5d-ce989a39e33f" />
 
 ## Designing the Crosshead: Morgan Gregory
 
@@ -165,7 +175,9 @@ The SolidWorks Assembly is shown below and the part file for the crosshead and t
 
 ## Lessons Learned: Lexie Cox
 
-[Insert Lexie Cox WORK HERE]
+In this assignment, we designed a conceptual tensile tester by establishing minimum testing requirements and calculating the specifications for its individual components. The most challenging aspect of the project was selecting appropriate bolt lengths and sourcing bearing fixtures that fit within our design constraints. This highlighted the critical importance of balancing cost, material properties, and applied forces when selecting off-the-shelf components for a mechanical design.
+
+This assignment took us roughly 6 hours to complete.
 
 ## References
 
