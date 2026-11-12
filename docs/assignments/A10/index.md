@@ -44,17 +44,17 @@ I began by parametrically designing the crosshead in SolidWorks as shown below.
 
 <img width="877" height="379" alt="Screenshot 2026-11-11 024724" src="https://github.com/user-attachments/assets/126b65e4-0d19-46a3-b7df-75318240341a" />
 
+The SolidWorks Assembly is shown below and the part file for the crosshead and the assembly are below.
 
+<img width="987" height="532" alt="Screenshot 2026-11-11 025027" src="https://github.com/user-attachments/assets/8e32cfa0-bbb3-433f-a800-716765722860" />
 
+<img width="792" height="636" alt="Screenshot 2026-11-11 212015" src="https://github.com/user-attachments/assets/5f4432a0-2152-4537-a683-64869a254aef" />
 
+<img width="721" height="625" alt="Screenshot 2026-11-11 212020" src="https://github.com/user-attachments/assets/b79079df-91e3-4370-81d2-e75f68558de0" />
 
+[Crosshead.zip](https://github.com/user-attachments/files/34723579/Crosshead.zip)
 
-
-
-
-
-
-
+[A10Assembly.zip](https://github.com/user-attachments/files/34723581/A10Assembly.zip)
 
 ## References
 
