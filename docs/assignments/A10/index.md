@@ -108,6 +108,10 @@ These calculations provided the foundation for selecting the commercial leadscre
 
 <img width="882" height="1166" alt="image" src="https://github.com/user-attachments/assets/47c75de2-f43a-4732-ab93-79f9e9fdb0b1" />
 
+## Select A Nut/Flange: Lexie Cox
+
+[POST LEXIE COX WORK HERE]
+
 ## Designing the Crosshead: Morgan Gregory
 
 To begin, I needed to find both the length, from research, and the base, from the nut flange. The length was chosen to be 300 mm and the base was chosen from the flange nut diameter to be 31.75 mm. The rest of the knowns and unknowns are shown below.
@@ -159,6 +163,14 @@ The SolidWorks Assembly is shown below and the part file for the crosshead and t
 [Crosshead.zip](https://github.com/user-attachments/files/34723579/Crosshead.zip)
 
 [A10Assembly.zip](https://github.com/user-attachments/files/34723581/A10Assembly.zip)
+
+## Tabulating Costs: Morgan Gregory
+
+
+
+## Lessons Learned: Lexie Cox
+
+[Insert Lexie Cox WORK HERE]
 
 ## References
 
