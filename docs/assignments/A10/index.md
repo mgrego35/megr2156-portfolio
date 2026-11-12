@@ -168,8 +168,8 @@ The SolidWorks Assembly is shown below and the part file for the crosshead and t
 
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 | --- | ---: | --- | ---: | ---: | --- |
-| Leadscrew | 2 | Ethan | $56.52 | $113.04 | [Roton 59837](https://www.roton.com/product/acme-stainless-steel-screw-right-59837/) |
-| Nut/Flange | 2 | Lexie | $178.60 | $357.20 | [McMaster-Carr 97790A110](https://www.mcmaster.com/97790A110/) |
+| Leadscrew | 2 | Lead Screw | $56.52 | $113.04 | [Roton 59837](https://www.roton.com/product/acme-stainless-steel-screw-right-59837/) |
+| Nut/Flange | 2 | Nut/Flange | $178.60 | $357.20 | [McMaster-Carr 97790A110](https://www.mcmaster.com/97790A110/) |
 
 ## Lessons Learned: Lexie Cox
 
