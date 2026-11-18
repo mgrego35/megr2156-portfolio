@@ -16,6 +16,46 @@ The speed-torque curve is shown below.
 
 <img width="557" height="297" alt="Screenshot 2026-11-17 160458" src="https://github.com/user-attachments/assets/4839cb5a-5047-43f4-a00c-a7d474abb388" />
 
+To begin the bracket design I listed my knowns and unknowns below.
+
+<img width="728" height="173" alt="Screenshot 2026-11-17 194214" src="https://github.com/user-attachments/assets/cf2fedc9-5d46-4fe5-abe2-a2e4a153177d" />
+
+I then created a FBD for the shear stress analysis.
+
+<img width="382" height="194" alt="Screenshot 2026-11-17 194320" src="https://github.com/user-attachments/assets/ca228d15-9ce0-47e6-9f38-e68bb327fdf4" />
+
+Then I used the knowns to find the unknown value as shown below using the reaction force.
+
+<img width="864" height="430" alt="Screenshot 2026-11-17 194400" src="https://github.com/user-attachments/assets/555694cc-79b8-4978-86d0-81d8f9a83764" />
+
+The minimum thickness was .154 mm but I chose 5 mm for convenience.
+
+I began the CAD model below with a sketch and extrusion.
+
+<img width="915" height="606" alt="Screenshot 2026-11-17 193140" src="https://github.com/user-attachments/assets/c6fb6ae5-6cf6-4d6e-9fe1-d1ff3333673a" />
+
+<img width="820" height="435" alt="Screenshot 2026-11-17 193151" src="https://github.com/user-attachments/assets/f659084d-c76c-43f2-a46e-ce8ddcd301cb" />
+
+I then made the sketch and extrusion for the shaft hole.
+
+<img width="686" height="497" alt="Screenshot 2026-11-17 193130" src="https://github.com/user-attachments/assets/07b47833-5fc8-455d-939e-4cc29c8839fa" />
+
+Then I made the holes using a centerline and the hole wizard tool. The screw size is M4.
+
+<img width="1917" height="843" alt="Screenshot 2026-11-17 193654" src="https://github.com/user-attachments/assets/1d8bf5e1-0784-4ee9-a140-cca25aac328c" />
+
+<img width="864" height="588" alt="Screenshot 2026-11-17 193702" src="https://github.com/user-attachments/assets/007009ed-5d07-4651-b456-f8aba3a8b2b2" />
+
+Then I did the same on the other side using the diameters from the drawing of the motor.
+
+<img width="989" height="686" alt="Screenshot 2026-11-17 194031" src="https://github.com/user-attachments/assets/8976a27b-e6da-493e-9264-d4aeae314322" />
+
+Final part shown below.
+
+<img width="746" height="537" alt="Screenshot 2026-11-17 194059" src="https://github.com/user-attachments/assets/aa1cc5e7-4bf4-448b-af9a-f4f28c6095cc" />
+
+[A11 Motor Bracket.zip](https://github.com/user-attachments/files/35001412/A11.Motor.Bracket.zip)
+
 
 
 
