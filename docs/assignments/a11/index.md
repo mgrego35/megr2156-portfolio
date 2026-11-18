@@ -56,13 +56,11 @@ Final part shown below.
 
 [A11 Motor Bracket.zip](https://github.com/user-attachments/files/35001412/A11.Motor.Bracket.zip)
 
+I then began the coupling design using the same process, knowns and unknowns, FBD, then equations. The torsion equation was used.
 
+<img width="815" height="232" alt="Screenshot 2026-11-17 194825" src="https://github.com/user-attachments/assets/beddafdd-0f22-46d5-affc-9e7de9daaa75" />
 
-
-
-
-
-
+<img width="613" height="678" alt="Screenshot 2026-11-17 194837" src="https://github.com/user-attachments/assets/f3b40e59-92cd-4cb1-909d-837243d3a3a7" />
 
 ## References
 
