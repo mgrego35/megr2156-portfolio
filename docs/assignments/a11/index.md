@@ -62,6 +62,12 @@ I then began the coupling design using the same process, knowns and unknowns, FB
 
 <img width="613" height="678" alt="Screenshot 2026-11-17 194837" src="https://github.com/user-attachments/assets/f3b40e59-92cd-4cb1-909d-837243d3a3a7" />
 
+## 
+
+
+
+
+
 ## References
 
 https://electrocraft.com/products/bldc/rpx52/
