@@ -62,9 +62,9 @@ I then began the coupling design using the same process, knowns and unknowns, FB
 
 <img width="613" height="678" alt="Screenshot 2026-11-17 194837" src="https://github.com/user-attachments/assets/f3b40e59-92cd-4cb1-909d-837243d3a3a7" />
 
-## Analyze and Design a Frame
+## Analyze and Design a Frame: Lexie Cox
 
-## Design Floating Bearing Mount
+## Design Floating Bearing Mount: Ethan Cornett
 
 <img width="3024" height="4032" alt="IMG_2037" src="https://github.com/user-attachments/assets/281ede0e-0c33-47c3-88f3-f2dd81ab00f9" />
 
@@ -75,7 +75,9 @@ I then began the coupling design using the same process, knowns and unknowns, FB
 Decided to make the base 2.5 x 2.5 x .75 so that the bracket is small enough to fit in smaller spaces and to save on material. The Tolerances I used was RC3 with a diameter between .4-.71 which ours is .5 
 The tolerances were based on the above picture where I minus the given values by the starting diameter.
 
-## 
+## Bill of Materials and Labor Costs
+
+
 
 
 
