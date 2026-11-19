@@ -75,7 +75,7 @@ I then began the coupling design using the same process, knowns and unknowns, FB
 Decided to make the base 2.5 x 2.5 x .75 so that the bracket is small enough to fit in smaller spaces and to save on material. The Tolerances I used was RC3 with a diameter between .4-.71 which ours is .5 
 The tolerances were based on the above picture where I minus the given values by the starting diameter.
 
-## Bill of Materials and Labor Costs
+## Bill of Materials and Labor Costs: Morgan Gregory
 
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 | ---: | ---: | --- | ---: | ---: | --- |
