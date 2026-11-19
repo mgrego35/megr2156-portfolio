@@ -79,8 +79,8 @@ The tolerances were based on the above picture where I minus the given values by
 
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 | ---: | ---: | --- | ---: | ---: | --- |
-| 1 | 2 | Leadscrew | $56.52 | $113.04 | [Lead Screw](LEAD_SCREW_URL) |
-| 2 | 2 | Nut/Flange | $179 | $357.20 | [Nut](NUT_URL) |
+| 1 | 2 | Leadscrew | $56.52 | $113.04 | [Lead Screw](https://www.roton.com/product/acme-stainless-steel-screw-right-59837/) |
+| 2 | 2 | Nut/Flange | $179 | $357.20 | [Nut](https://www.mcmaster.com/97790A110/) |
 | 3 | 1 | Crosshead | $200 | $200.00 | N/A |
 | 4 | 2 | Bearing Mount | $21.45 | $42.90 | N/A |
 | 5 | 4 | Frame | $17.60 | $70.40 | N/A |
