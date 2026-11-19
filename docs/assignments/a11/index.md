@@ -77,11 +77,21 @@ The tolerances were based on the above picture where I minus the given values by
 
 ## Bill of Materials and Labor Costs
 
+| Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
+| ---: | ---: | --- | ---: | ---: | --- |
+| 1 | 2 | Leadscrew | $56.52 | $113.04 | [Lead Screw](LEAD_SCREW_URL) |
+| 2 | 2 | Nut/Flange | $179 | $357.20 | [Nut](NUT_URL) |
+| 3 | 1 | Crosshead | $200 | $200.00 | N/A |
+| 4 | 2 | Bearing Mount | $21.45 | $42.90 | N/A |
+| 5 | 4 | Frame | $17.60 | $70.40 | N/A |
+| | | | **Total Cost** | **$783.54** | |
 
-
-
-
-
+| Person | Hours worked | Cost/hour | Cost |
+| --- | ---: | ---: | ---: |
+| Ethan Cornett | 10 | $30 | $300 |
+| Morgan Gregory | 10 | $30 | $300 |
+| Lexie Cox | 10 | $30 | $300 |
+| | | **Total Cost** | **$900** |
 
 ## References
 
